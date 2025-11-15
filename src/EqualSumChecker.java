@@ -1,3 +1,7 @@
+/* ***************************************************************************
+This is a comment about the CalcFeetAndInchesToCentimeters class/methods.
+*************************************************************************** */
+
 public class EqualSumChecker {
 
     public static boolean hasEqualSum(int one, int two, int three) {

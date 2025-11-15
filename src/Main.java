@@ -1,3 +1,7 @@
+/* ***************************************************************************
+This is a comment about the MAIN program.
+*************************************************************************** */
+
 public class Main {
     public static void main(String[] args) {
         boolean isSumEqual1 = EqualSumChecker.hasEqualSum(1, 1, 1);
